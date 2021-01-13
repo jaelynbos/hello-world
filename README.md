@@ -1,4 +1,4 @@
 # hello-world
 Practice
 
-I'm an ecology researcher using github for data management and R coding
+I'm an ecology researcher using github for R and Python
